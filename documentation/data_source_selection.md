@@ -32,7 +32,11 @@ Available data sources for individual games
 
 Internet provides us with plethora of data for each game. Fortunately we do not have to buy each video game that will be tested. YouTube is full of videos presenting complete gameplays from beggining to end, often with alternative paths that can be taken by the player.
 
+For an example we can view a complete playthrough for [Witcher 2](https://www.youtube.com/watch?v=ui9C1pfxj4g)
+
 Especially in the realm of RPG games common are mini-wikipedias gathering info about NPCs and world lore. They're full of info about the chacters often with screenshots and concept arts, which along with text data will be included in final dataset.
+
+As an example we can show wikia for [The Elder Scrolls V: Skyrim](http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_Wiki)
 
 
 Selected data sources and motivation
