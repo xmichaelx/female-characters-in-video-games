@@ -9,7 +9,7 @@ A lot of materials found on the subject of female characters and their role in v
 Goals
 -----
 
-We set out to gather available data from internet sources.
+We want to determine what is an overall profile of female characters in video games and how it differs from female profile present in human population.
 
 Context
 -------
