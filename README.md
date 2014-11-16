@@ -19,3 +19,5 @@ Table of contents
 [Data analysis](documentation/data_analysis.md)
 
 [Further reading](documentation/further_reading.md)
+
+Important note: This repo is in state of constant evolution.
