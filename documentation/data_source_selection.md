@@ -30,6 +30,10 @@ Available rankings:
 Available data sources for individual games
 -------------------------------------------
 
+Internet provides us with plethora of data for each game. Fortunately we do not have to buy each video game that will be tested. YouTube is full of videos presenting complete gameplays from beggining to end, often with alternative paths that can be taken by the player.
+
+Especially in the realm of RPG games common are mini-wikipedias gathering info about NPCs and world lore. They're full of info about the chacter often with screenshots and concept arts.
+
 
 Selected data sources and motivation
 ------------------------------------
