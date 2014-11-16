@@ -12,6 +12,8 @@ We're aware that adeventure games also offer a complicated plots. Also nowadays 
 
 As a criterion of selection we will take cRPG games popularity in major game-dedicated websites, which will be evaluated in the first stage. Next we will compare different sources of data about the games themselves.
 
+For our convenience we focus on games available for PC.
+
 Available game rankings
 ----------------------
 
