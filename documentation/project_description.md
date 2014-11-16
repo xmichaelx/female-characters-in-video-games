@@ -9,6 +9,8 @@ A lot of materials found on the subject of female characters and their role in v
 Goals
 -----
 
+We set out to gather available data from internet sources.
+
 Context
 -------
 
