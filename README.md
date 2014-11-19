@@ -4,7 +4,7 @@ Female characters in Top-100 cRPG games
 Abstract
 --------
 
-Text here
+Number of popular video role-playing games is investigated for their attitude towards presented female characters. Final analysis aims for finding most common features and their origins. Project is divided into two stages: data collection and data analysis. During first stage data is harvested from selected data sources. Second stage is a careful analysis of collected data.
 
 
 Table of contents
@@ -17,3 +17,7 @@ Table of contents
 [Data extraction](documentation/data_extraction.md)
 
 [Data analysis](documentation/data_analysis.md)
+
+[Further reading](documentation/further_reading.md)
+
+Important note: This repo is in state of constant evolution.
