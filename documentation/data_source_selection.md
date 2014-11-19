@@ -44,3 +44,108 @@ Selected data sources and motivation
 
 After preliminary analysis we discovered that (as expected) there was a lot of overlap between the rankings (top titles from each ranking as of 19.11.2014 available in [our repo](../data/rpg_game_rankings)). We decided to merge the results and form our top 100 list.
 
+Selected titles
+---------------
+
+List provided below was created as a result of merger of lists aforementioned obove.
+
+1. Mass Effect 2
+2. The Elder Scrolls IV: Oblivion
+3. Star Wars: Knights of the Old Republic
+4. Fallout 3
+5. Dragon Age: Origins
+6. Planescape: Torment
+7. Guild Wars 2
+8. Mass Effect
+9. Guild Wars
+10. The Elder Scrolls III: Morrowind
+11. Neverwinter Nights
+12. Baldur's Gate II: Shadows of Amn 
+13. Diablo II
+14. Torchlight II
+15. Dark Souls II
+16. Dark Age of Camelot
+17. The Witcher Assassins of Kings
+18. Freedom Force
+19. EverQuest
+20. Diablo III
+21. Fallout 2
+22. South Park: The Stick of Truth
+23. Icewind Dale
+24. Dungeon Siege
+25. City of Heroes
+26. Rift
+27. Wizardry 8
+28. Divinity: Original Sin
+29. Space Rangers Rise of the Dominators
+30. Transistor
+31. Star Wars: The Old Republic
+32. Fallout: New Vegas
+33. Asheron's Call Fallen Kings
+34. Fable: The Lost Chapters
+35. EverQuest II
+36. Divine Divinity
+37. City of Villains
+38. Neverwinter Nights 2
+39. Final Fantasy XI
+40. Icewind Dale II
+41. Earth & Beyond
+42. The Witcher
+43. Jade Empire: Special Edition
+44. Age of Conan
+45. Nox
+46. X-Men Legends II: Rise of Apocalypse
+47. Legend of Grimrock
+48. Asheron's Call
+49. Fallout Tactics: Brotherhood of Steel
+50. Dungeon Siege II
+51. The Banner Saga
+52. Vampire: The Masquerade - Bloodlines
+53. WildStar
+54. Wasteland 2
+55. PlanetSide
+56. Anachronox
+57. Arx Fatalis
+58. SpellForce Shadow Wars
+59. Titan Quest
+60. Gothic II
+61. Aion
+62. Dragon Age II
+63. Tabula Rasa
+64. Arcanum: Of Steamworks and Magick Obscura
+65. Risen
+66. Darkstone
+67. Shadowrun Returns
+68. Pirates of the Burning Sea
+69. Sacred
+70. Might and Magic VII: For Blood and Honor
+71. The Elder Scrolls V: Skyrim 
+72. Diablo 
+73. Baldur's Gate 
+74. Fallout 
+75. The Legend of Heroes: Trails in the Sky 
+76. Bastion 
+77. Path of Exile 
+78. Dust: An Elysian Tail 
+79. Dark Souls
+80. Rogue Legacy 
+81. SMITE 
+82. Torchlight 
+83. The Last Remnant
+84. Drakensang: The Dark Eye
+85. Kingdoms of Amalur: Reckoning
+86. Child of Light
+87. Might and Magic VI: The Mandate of Heaven
+88. Fable
+89. Factions
+90. Asheron's Call Legions
+91. Dark Majesty
+92. Final Fantasy VII
+93. King's Bounty: Armored Princess
+94. Lands of Lore: Guardians of Destiny
+95. The Temple of Elemental Evil
+96. Beyond Divinity
+97. Blood Omen: Legacy of Kain
+98. Gothic 3
+99. Spellbinder: The Nexus Conflict
+100. Two Worlds
