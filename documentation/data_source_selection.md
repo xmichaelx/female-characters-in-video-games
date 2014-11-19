@@ -41,3 +41,6 @@ As an example we can show wikia for [The Elder Scrolls V: Skyrim](http://eldersc
 
 Selected data sources and motivation
 ------------------------------------
+
+After preliminary analysis we discovered that (as expected) there was a lot of overlap between the rankings (top titles from each ranking as of 19.11.2014 available in data/rpg_game_rankings folder). We decided to merge the results and form our top 100 list.
+
